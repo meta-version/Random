@@ -6,5 +6,8 @@
 This tools clone for any country ✅
 # Install System 👇
 
-    git pull
-    
+      git pull
+      git clone https://github.com/meta-version/Random
+      cd Random
+      python run.py
+
