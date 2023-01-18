@@ -4,3 +4,7 @@
 <h1 align=center>Meta ᵛᵉʳˢⁱᵒⁿ</h1>
 <h1 align=center>NAHID AFRIDY</h1>
 This tools clone for any country ✅
+# Install System 👇
+
+    git pull
+    
